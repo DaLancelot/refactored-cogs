@@ -1,6 +1,7 @@
 {
     "AUTHOR" : "Kowlin",
     "DESCRIPTION" : "Simply google, a non sarcastic LMGTFY",
+    "SHORT" : "Well Hi this is a short discription.",
     "DISABLED" : false,
     "NAME" : "Simply Google"
 }
